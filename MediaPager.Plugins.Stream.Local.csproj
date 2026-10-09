@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MediaPager.Plugins.Stream.Local</RootNamespace>
+    <Description>Official local stream provider for catalog-backed media.</Description>
+    <PackageId>MediaPager.Plugins.Stream.Local</PackageId>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../MediaPager.App.PluginContracts/MediaPager.App.PluginContracts.csproj" />
+  </ItemGroup>
+
+</Project>

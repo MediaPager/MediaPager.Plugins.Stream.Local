@@ -1,0 +1,9 @@
+{
+  "id": "mediapager.stream.local",
+  "name": "Local",
+  "description": "Official local stream provider for media managed through catalogs.",
+  "author": "Nobugsgiven",
+  "types": "stream",
+  "sdk": "MediaPager.App.PluginContracts",
+  "sdkVersion": "0.1.0"
+}
