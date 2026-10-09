@@ -13,7 +13,7 @@ public sealed class LocalStreamProviderPlugin : IStreamProviderPlugin
         "mediapager.stream.local",
         "Local",
         "0.1.0",
-        "Nobugsgiven",
+        "MediaPager",
         "Official local stream provider for catalog-backed media.");
 
     public StreamProviderMode Mode => StreamProviderMode.Local;
