@@ -26,6 +26,7 @@ public sealed class LocalStreamProviderPlugin : IStreamProviderPlugin
         MediaKind.Podcast,
         MediaKind.Audiobook,
         MediaKind.Book,
+        MediaKind.Document,
     ];
 
     public IReadOnlyList<SourceDescriptor> Sources { get; } = [];
